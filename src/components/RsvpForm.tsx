@@ -6,13 +6,27 @@ import { toast } from "sonner";
 const RsvpForm = () => {
   const [nome, setNome] = useState("");
 
-  const handleConfirmar = () => {
+  const handleConfirmar = async () => {
     if (!nome.trim()) {
       toast.error("Por favor, digite seu nome.");
       return;
     }
-    toast.success(`Obrigado, ${nome}! Sua presença foi confirmada.`);
-    setNome("");
+
+    try {
+      await fetch("https://script.google.com/macros/s/AKfycbxH0dg0zgIJw6usxiDbrDPFKV7G2LwD0ygHskOzqBFjCyfuko4NyatQxg-n_60WQU6Q/exec", {
+        method: "POST",
+        mode: "no-cors",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ nome }),
+      });
+
+      toast.success(`Obrigado, ${nome}! Sua presença foi confirmada.`);
+      setNome("");
+    } catch (error) {
+      toast.error("Erro ao enviar confirmação.");
+    }
   };
 
   return (
