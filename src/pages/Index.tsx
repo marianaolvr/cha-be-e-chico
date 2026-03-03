@@ -13,7 +13,7 @@ const Index = () => {
       </div>
       <ProductGrid />
       <footer className="py-8 text-center text-muted-foreground text-sm font-body">
-        Feito com ❤️ para você
+        © 2026 - Mamães do Francisco e da Bethania
       </footer>
     </div>
   );
