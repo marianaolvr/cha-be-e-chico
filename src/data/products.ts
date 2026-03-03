@@ -3,15 +3,15 @@ import { imagensProdutos } from "./images";
 export const produtos = [
   {
     id: "kit-panos-boca",
-    imagem: imagensProdutos.placeholder,
+    imagem: imagensProdutos.paninho_boca,
     titulo: "Kit Paninhos de Boca",
     descricao: "Pequenos, indispensáveis e misteriosamente sempre desaparecem.",
     preco: 60,
-    linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
+    linkPagamento: "https://mpago.la/2SWs6iB",
   },
   {
     id: "pomada-assadura",
-    imagem: imagensProdutos.placeholder,
+    imagem: imagensProdutos.kit_higiene,
     titulo: "Kit Pomada para Assadura",
     descricao: "Um verdadeiro escudo protetor para momentos delicados.",
     preco: 75,
@@ -19,7 +19,7 @@ export const produtos = [
   },
   {
     id: "termometro-digital",
-    imagem: imagensProdutos.placeholder,
+    imagem: imagensProdutos.termometro,
     titulo: "Termômetro Digital",
     descricao: "Item que ninguém lembra até precisar às 2h17 da manhã.",
     preco: 65,
@@ -27,7 +27,7 @@ export const produtos = [
   },
   {
     id: "kit-pratos-colheres",
-    imagem: imagensProdutos.placeholder,
+    imagem: imagensProdutos.kit_pratinhos,
     titulo: "Kit Pratinhos e Colheres",
     descricao: "Preparando o terreno para a fase gourmet papinha edition.",
     preco: 85,
@@ -35,7 +35,7 @@ export const produtos = [
   },
   {
     id: "cota-livrinhos-infantis",
-    imagem: imagensProdutos.placeholder,
+    imagem: imagensProdutos.livrinhos_infantis,
     titulo: "Cota Livrinhos Infantis",
     descricao:
       "Para começar cedo a coleção de histórias e soninhos pós-leitura.",
@@ -44,7 +44,7 @@ export const produtos = [
   },
   {
     id: "almofada-amamentacao",
-    imagem: imagensProdutos.placeholder,
+    imagem: imagensProdutos.almofada_amamentacao,
     titulo: "Almofada de Amamentação",
     descricao:
       "Conforto essencial para amamentar dois bebês ao mesmo tempo e salvar a coluna nas madrugadas.",
@@ -53,7 +53,7 @@ export const produtos = [
   },
   {
     id: "banheira-suporte",
-    imagem: imagensProdutos.placeholder,
+    imagem: imagensProdutos.banheira,
     titulo: "Banheira com Suporte",
     descricao:
       "Banho seguro sem precisar virar contorcionista. A coluna agradece.",
@@ -71,7 +71,7 @@ export const produtos = [
   },
   {
     id: "kit-toalhas-banho",
-    imagem: imagensProdutos.placeholder,
+    imagem: imagensProdutos.toalhas,
     titulo: "Kit Toalhas de Banho",
     descricao: "Porque sempre vai molhar mais do que o previsto. Sempre.",
     preco: 180,
@@ -79,7 +79,7 @@ export const produtos = [
   },
   {
     id: "fralda-1-pacote",
-    imagem: imagensProdutos.placeholder,
+    imagem: imagensProdutos.fralda_1,
     titulo: "1 Pacote de Fraldas",
     descricao: "Começando leve… mas já ajudando muito na maratona de trocas.",
     preco: 70,
@@ -87,7 +87,7 @@ export const produtos = [
   },
   {
     id: "fralda-2-pacotes",
-    imagem: imagensProdutos.placeholder,
+    imagem: imagensProdutos.fralda_2,
     titulo: "2 Pacotes de Fraldas",
     descricao: "Estoque estratégico para alguns dias de sobrevivência.",
     preco: 140,
@@ -95,7 +95,7 @@ export const produtos = [
   },
   {
     id: "fralda-3-pacotes",
-    imagem: imagensProdutos.placeholder,
+    imagem: imagensProdutos.fralda_3,
     titulo: "3 Pacotes de Fraldas",
     descricao: "Você oficialmente virou patrocinador da higiene em dobro.",
     preco: 210,
@@ -103,7 +103,7 @@ export const produtos = [
   },
   {
     id: "fralda-4-pacotes",
-    imagem: imagensProdutos.placeholder,
+    imagem: imagensProdutos.fralda_4,
     titulo: "4 Pacotes de Fraldas",
     descricao: "Já dá para respirar um pouco mais tranquilo nas madrugadas.",
     preco: 280,
@@ -111,7 +111,7 @@ export const produtos = [
   },
   {
     id: "fralda-5-pacotes",
-    imagem: imagensProdutos.placeholder,
+    imagem: imagensProdutos.fralda_5,
     titulo: "5 Pacotes de Fraldas",
     descricao: "MVP do chá! Seu nome será lembrado nas trocas às 3h da manhã.",
     preco: 350,
@@ -119,7 +119,7 @@ export const produtos = [
   },
   {
     id: "trocador-impermeavel",
-    imagem: imagensProdutos.placeholder,
+    imagem: imagensProdutos.trocador,
     titulo: "Trocador Impermeável",
     descricao:
       "Proteção oficial contra acidentes inesperados (que são bem esperados).",
@@ -128,7 +128,7 @@ export const produtos = [
   },
   {
     id: "kit-body",
-    imagem: imagensProdutos.placeholder,
+    imagem: imagensProdutos.kit_body,
     titulo: "Kit Body (Manga Curta/Longa)",
     descricao:
       "Looks confortáveis para mini humanos que só querem mamar e dormir.",
@@ -137,16 +137,16 @@ export const produtos = [
   },
   {
     id: "cota-berco-1",
-    imagem: imagensProdutos.placeholder,
-    titulo: "1 Cota de Berço (25%)",
+    imagem: imagensProdutos.berco,
+    titulo: "1 Cota de Berços (25%)",
     descricao:
-      "Ajude a construir o cantinho dos sonhos. Cada cota representa 1/4 do berço.",
+      "Ajude a construir o cantinho dos sonhos. Cada cota representa 1/4 dos berços.",
     preco: 400,
     linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
   },
   {
     id: "protetor-colchao",
-    imagem: imagensProdutos.placeholder,
+    imagem: imagensProdutos.protetor_colchao,
     titulo: "Protetor de Colchão",
     descricao:
       "Barreira estratégica entre o colchão e a realidade da vida com gêmeos.",
@@ -155,7 +155,7 @@ export const produtos = [
   },
   {
     id: "lencol-elastico",
-    imagem: imagensProdutos.placeholder,
+    imagem: imagensProdutos.lencol_elastico,
     titulo: "Lençol com Elástico",
     descricao:
       "Porque trocar lençol às 3h da manhã já é difícil sem ele escapar.",
@@ -164,7 +164,7 @@ export const produtos = [
   },
   {
     id: "bebe-conforto",
-    imagem: imagensProdutos.placeholder,
+    imagem: imagensProdutos.bebe_conforto,
     titulo: "Bebê Conforto / Cadeira para Carro",
     descricao:
       "Segurança em primeiro lugar para os primeiros passeios da dupla.",
@@ -173,7 +173,7 @@ export const produtos = [
   },
   {
     id: "carrinho-gemeos",
-    imagem: imagensProdutos.placeholder,
+    imagem: imagensProdutos.carrinho_gemeos,
     titulo: "Carrinho de Bebê de Gêmeos",
     descricao: "A nave espacial oficial da família. Mobilidade nível avançado.",
     preco: 3200,
@@ -181,7 +181,7 @@ export const produtos = [
   },
   {
     id: "carrinho-individual",
-    imagem: imagensProdutos.placeholder,
+    imagem: imagensProdutos.carrinho,
     titulo: "Carrinho de Bebê Individual",
     descricao: "Versão compacta para aventuras solo com um dos mini chefes.",
     preco: 1200,
@@ -189,7 +189,7 @@ export const produtos = [
   },
   {
     id: "bolsa-passeio",
-    imagem: imagensProdutos.placeholder,
+    imagem: imagensProdutos.bolsa_passeio,
     titulo: "Bolsa/Mochila para Passeio",
     descricao: "Parece pequena, mas cabe metade da casa. Organização é tudo.",
     preco: 350,
@@ -197,7 +197,7 @@ export const produtos = [
   },
   {
     id: "sling-canguru",
-    imagem: imagensProdutos.placeholder,
+    imagem: imagensProdutos.sling_canguru,
     titulo: "Sling / Canguru",
     descricao:
       "Colo portátil para manter os bebês perto e as mãos minimamente livres.",
@@ -206,7 +206,7 @@ export const produtos = [
   },
   {
     id: "chiqueirinho-grande",
-    imagem: imagensProdutos.placeholder,
+    imagem: imagensProdutos.chiqueirinho,
     titulo: "Chiqueirinho Grande",
     descricao:
       "Espaço seguro para brincar enquanto os adultos respiram por alguns minutos.",
@@ -215,7 +215,7 @@ export const produtos = [
   },
   {
     id: "cadeira-amamentacao",
-    imagem: imagensProdutos.placeholder,
+    imagem: imagensProdutos.cadeira_amamentacao,
     titulo: "Cadeira de Amamentação",
     descricao: "O trono oficial das madrugadas. Conforto para longas jornadas.",
     preco: 1200,
@@ -232,7 +232,7 @@ export const produtos = [
   },
   {
     id: "kit-higiene",
-    imagem: imagensProdutos.placeholder,
+    imagem: imagensProdutos.kit_higiene_bebes,
     titulo: "Kit Higiene do Bebê",
     descricao: "Pequenos itens que fazem grande diferença no dia a dia.",
     preco: 180,
@@ -240,7 +240,7 @@ export const produtos = [
   },
   {
     id: "esterilizador-mamadeiras",
-    imagem: imagensProdutos.placeholder,
+    imagem: imagensProdutos.esterilizador_mamadeiras,
     titulo: "Esterilizador de Mamadeiras",
     descricao: "Praticidade e segurança na rotina de alimentação.",
     preco: 400,
@@ -248,7 +248,7 @@ export const produtos = [
   },
   {
     id: "kit-mamadeiras",
-    imagem: imagensProdutos.placeholder,
+    imagem: imagensProdutos.kit_mamadeiras,
     titulo: "Kit Mamadeiras (6 unidades)",
     descricao: "Porque sempre parece que tem menos do que o necessário.",
     preco: 300,
@@ -256,7 +256,7 @@ export const produtos = [
   },
   {
     id: "mantas-cueiros",
-    imagem: imagensProdutos.placeholder,
+    imagem: imagensProdutos.mantas_cueiros,
     titulo: "Kit Mantas e Cueiros",
     descricao: "Versáteis para cobrir, proteger, enrolar e salvar o dia.",
     preco: 200,
@@ -295,12 +295,12 @@ export const produtos = [
     preco: 200,
     linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
   },
-{
-  id: "cota-socorro-sao-gemeos",
-  imagem: imagensProdutos.placeholder,
-  titulo: "💸 Cota 'Socorro, São Gêmeos'",
-  descricao: "Escolha qualquer valor e participe do financiamento da sobrevivência em dobro.",
-  preco: 0,
-  linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
-},
+  {
+    id: "cota-socorro-sao-gemeos",
+    imagem: imagensProdutos.placeholder,
+    titulo: "💸 Cota 'Socorro, São Gêmeos'",
+    descricao: "Escolha qualquer valor e participe do financiamento da sobrevivência em dobro.",
+    preco: 0,
+    linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
+  },
 ];
