@@ -31,6 +31,14 @@ import kit_mamadeiras from "@/assets/products/kit_mamadeiras.webp";
 import esterilizador_mamadeiras from "@/assets/products/esterilizador_mamadeiras.webp";
 import mantas_cueiros from "@/assets/products/mantas_cueiros.webp";
 import sling_canguru from "@/assets/products/sling_canguru.webp";
+import kit_meias_luvinhas from "@/assets/products/kit_meias_luvinhas.webp";
+import food_delivery from "@/assets/products/food_delivery.webp";
+import tapete_atividades from "@/assets/products/tapete_atividades.webp";
+import kit_primeiros_cuidados from "@/assets/products/kit_primeiros_cuidados.webp";
+import baba_eletronica from "@/assets/products/baba_eletronica.webp";
+import bomba_leite from "@/assets/products/bomba_leite.webp";
+import socorro_gemeos from "@/assets/products/socorro_gemeos.webp";
+
 
 export const imagensProdutos = {
   placeholder: placeholder,
@@ -65,4 +73,11 @@ export const imagensProdutos = {
   esterilizador_mamadeiras: esterilizador_mamadeiras,
   mantas_cueiros: mantas_cueiros,
   sling_canguru: sling_canguru,
+  kit_meias_luvinhas: kit_meias_luvinhas,
+  food_delivery: food_delivery,
+  tapete_atividades: tapete_atividades,
+  kit_primeiros_cuidados: kit_primeiros_cuidados,
+  baba_eletronica: baba_eletronica,
+  bomba_leite: bomba_leite,
+  socorro_gemeos: socorro_gemeos,
 };

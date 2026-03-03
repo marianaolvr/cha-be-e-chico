@@ -62,7 +62,7 @@ export const produtos = [
   },
   {
     id: "bomba-eletrica-leite",
-    imagem: imagensProdutos.placeholder,
+    imagem: imagensProdutos.bomba_leite,
     titulo: "Bomba Elétrica para Leite",
     descricao:
       "Tecnologia a favor da maternidade. Praticidade quando o relógio manda mais que o sono.",
@@ -223,7 +223,7 @@ export const produtos = [
   },
   {
     id: "baba-eletronica-dupla",
-    imagem: imagensProdutos.placeholder,
+    imagem: imagensProdutos.baba_eletronica,
     titulo: "Babá Eletrônica Dupla",
     descricao:
       "Monitoramento em dobro para deixar o coração um pouco mais tranquilo.",
@@ -264,7 +264,7 @@ export const produtos = [
   },
   {
     id: "kit-meias-luvinhas",
-    imagem: imagensProdutos.placeholder,
+    imagem: imagensProdutos.kit_meias_luvinhas,
     titulo: "Kit Meias e Luvinhas",
     descricao: "Pequenos detalhes que aquecem e evitam arranhões dramáticos.",
     preco: 120,
@@ -272,7 +272,7 @@ export const produtos = [
   },
   {
     id: "tapete-atividades",
-    imagem: imagensProdutos.placeholder,
+    imagem: imagensProdutos.tapete_atividades,
     titulo: "Tapete de Atividades",
     descricao: "A academia oficial dos primeiros movimentos dos bebês.",
     preco: 350,
@@ -280,7 +280,7 @@ export const produtos = [
   },
   {
     id: "kit-primeiros-cuidados",
-    imagem: imagensProdutos.placeholder,
+    imagem: imagensProdutos.kit_primeiros_cuidados,
     titulo: "Kit Primeiros Cuidados",
     descricao: "Preparação é tudo para os primeiros resfriados e imprevistos.",
     preco: 250,
@@ -288,7 +288,7 @@ export const produtos = [
   },
   {
     id: "vale-delivery",
-    imagem: imagensProdutos.placeholder,
+    imagem: imagensProdutos.food_delivery,
     titulo: "Cota Noites de Delivery",
     descricao:
       "Porque cozinhar com gêmeos recém-nascidos é praticamente ficção científica.",
@@ -297,8 +297,8 @@ export const produtos = [
   },
   {
     id: "cota-socorro-sao-gemeos",
-    imagem: imagensProdutos.placeholder,
-    titulo: "💸 Cota 'Socorro, São Gêmeos'",
+    imagem: imagensProdutos.socorro_gemeos,
+    titulo: "💸 'Socorro, São Gêmeos'",
     descricao: "Escolha qualquer valor e participe do financiamento da sobrevivência em dobro.",
     preco: 0,
     linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
