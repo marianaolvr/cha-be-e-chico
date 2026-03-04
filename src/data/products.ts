@@ -6,8 +6,8 @@ export const produtos = [
     imagem: imagensProdutos.paninho_boca,
     titulo: "Kit Paninhos de Boca",
     descricao: "Pequenos, indispensáveis e misteriosamente sempre desaparecem.",
-    preco: 65.50,
-    linkPagamento: "https://mpago.la/2SWs6iB",
+    preco: 65.5,
+    linkPagamento: "https://mpago.li/1h6tUh8",
   },
   {
     id: "pomada-assadura",
@@ -15,7 +15,7 @@ export const produtos = [
     titulo: "Kit Pomada para Assadura",
     descricao: "Um verdadeiro escudo protetor para momentos delicados.",
     preco: 75,
-    linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
+    linkPagamento: "https://mpago.la/16gR9WD",
   },
   {
     id: "termometro-digital",
@@ -23,15 +23,15 @@ export const produtos = [
     titulo: "Termômetro Digital",
     descricao: "Item que ninguém lembra até precisar às 2h17 da manhã.",
     preco: 30,
-    linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
+    linkPagamento: "https://mpago.li/2eGrJZ3",
   },
   {
     id: "kit-pratos-colheres",
     imagem: imagensProdutos.kit_pratinhos,
     titulo: "Kit Pratinhos e Colheres",
     descricao: "Preparando o terreno para a fase gourmet papinha edition.",
-    preco: 149.90,
-    linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
+    preco: 149.9,
+    linkPagamento: "https://mpago.li/343jfwk",
   },
   {
     id: "cota-livrinhos-infantis",
@@ -40,7 +40,7 @@ export const produtos = [
     descricao:
       "Para começar cedo a coleção de histórias e soninhos pós-leitura.",
     preco: 100,
-    linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
+    linkPagamento: "https://mpago.li/2BvgggK",
   },
   {
     id: "almofada-amamentacao",
@@ -49,7 +49,7 @@ export const produtos = [
     descricao:
       "Conforto essencial para amamentar dois bebês ao mesmo tempo e salvar a coluna nas madrugadas.",
     preco: 260,
-    linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
+    linkPagamento: "https://mpago.li/2Pq9Fjq",
   },
   {
     id: "banheira-suporte",
@@ -58,7 +58,7 @@ export const produtos = [
     descricao:
       "Banho seguro sem precisar virar contorcionista. A coluna agradece.",
     preco: 300,
-    linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
+    linkPagamento: "https://mpago.li/2SHinyd",
   },
   {
     id: "bomba-eletrica-leite",
@@ -67,7 +67,7 @@ export const produtos = [
     descricao:
       "Tecnologia a favor da maternidade. Praticidade quando o relógio manda mais que o sono.",
     preco: 750,
-    linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
+    linkPagamento: "https://mpago.li/2iXsg2L",
   },
   {
     id: "kit-toalhas-banho",
@@ -75,7 +75,7 @@ export const produtos = [
     titulo: "Kit Toalhas de Banho",
     descricao: "Porque sempre vai molhar mais do que o previsto. Sempre.",
     preco: 180,
-    linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
+    linkPagamento: "https://mpago.li/1eq7mBq",
   },
   {
     id: "fralda-1-pacote",
@@ -83,7 +83,7 @@ export const produtos = [
     titulo: "1 Pacote de Fraldas",
     descricao: "Começando leve… mas já ajudando muito na maratona de trocas.",
     preco: 70,
-    linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
+    linkPagamento: "https://mpago.li/1ahcRVj",
   },
   {
     id: "fralda-2-pacotes",
@@ -91,7 +91,7 @@ export const produtos = [
     titulo: "2 Pacotes de Fraldas",
     descricao: "Estoque estratégico para alguns dias de sobrevivência.",
     preco: 140,
-    linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
+    linkPagamento: "https://mpago.li/2ZFk5jV",
   },
   {
     id: "fralda-3-pacotes",
@@ -99,7 +99,7 @@ export const produtos = [
     titulo: "3 Pacotes de Fraldas",
     descricao: "Você oficialmente virou patrocinador da higiene em dobro.",
     preco: 210,
-    linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
+    linkPagamento: "https://mpago.li/2TEV9LV",
   },
   {
     id: "fralda-4-pacotes",
@@ -107,7 +107,7 @@ export const produtos = [
     titulo: "4 Pacotes de Fraldas",
     descricao: "Já dá para respirar um pouco mais tranquilo nas madrugadas.",
     preco: 280,
-    linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
+    linkPagamento: "https://mpago.li/1zDXgE7",
   },
   {
     id: "fralda-5-pacotes",
@@ -115,7 +115,7 @@ export const produtos = [
     titulo: "5 Pacotes de Fraldas",
     descricao: "MVP do chá! Seu nome será lembrado nas trocas às 3h da manhã.",
     preco: 350,
-    linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
+    linkPagamento: "https://mpago.li/2TbnHAu",
   },
   {
     id: "trocador-impermeavel",
@@ -124,7 +124,7 @@ export const produtos = [
     descricao:
       "Proteção oficial contra acidentes inesperados (que são bem esperados).",
     preco: 120,
-    linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
+    linkPagamento: "https://mpago.li/2gUFxEV",
   },
   {
     id: "kit-body",
@@ -132,8 +132,8 @@ export const produtos = [
     titulo: "Kit Body (Manga Curta/Longa)",
     descricao:
       "Looks confortáveis para mini humanos que só querem mamar e dormir.",
-    preco: 250,
-    linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
+    preco: 130,
+    linkPagamento: "https://mpago.li/33H2MDd",
   },
   {
     id: "cota-berco-1",
@@ -142,7 +142,7 @@ export const produtos = [
     descricao:
       "Ajude a construir o cantinho dos sonhos. Cada cota representa 1/4 dos berços.",
     preco: 400,
-    linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
+    linkPagamento: "https://mpago.li/2rQUXqD",
   },
   {
     id: "protetor-colchao",
@@ -151,16 +151,16 @@ export const produtos = [
     descricao:
       "Barreira estratégica entre o colchão e a realidade da vida com gêmeos.",
     preco: 110,
-    linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
+    linkPagamento: "https://mpago.li/2j5H9bE",
   },
   {
     id: "lencol-elastico",
     imagem: imagensProdutos.lencol_elastico,
-    titulo: "Lençol com Elástico",
+    titulo: "Lençóis com Elástico",
     descricao:
       "Porque trocar lençol às 3h da manhã já é difícil sem ele escapar.",
     preco: 150,
-    linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
+    linkPagamento: "https://mpago.li/2Wnpr11",
   },
   {
     id: "bebe-conforto",
@@ -169,7 +169,7 @@ export const produtos = [
     descricao:
       "Segurança em primeiro lugar para os primeiros passeios da dupla.",
     preco: 450,
-    linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
+    linkPagamento: "https://mpago.li/2dXRMQQ",
   },
   {
     id: "carrinho-gemeos",
@@ -177,7 +177,7 @@ export const produtos = [
     titulo: "Carrinho de Bebê de Gêmeos",
     descricao: "A nave espacial oficial da família. Mobilidade nível avançado.",
     preco: 2000,
-    linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
+    linkPagamento: "https://mpago.li/31DpBXn",
   },
   {
     id: "carrinho-individual",
@@ -185,7 +185,7 @@ export const produtos = [
     titulo: "Carrinho de Bebê Individual",
     descricao: "Versão compacta para aventuras solo com um dos mini chefes.",
     preco: 1200,
-    linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
+    linkPagamento: "https://mpago.li/1vfFjAm",
   },
   {
     id: "bolsa-passeio",
@@ -193,7 +193,7 @@ export const produtos = [
     titulo: "Bolsa/Mochila para Passeio",
     descricao: "Parece pequena, mas cabe metade da casa. Organização é tudo.",
     preco: 350,
-    linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
+    linkPagamento: "https://mpago.li/2k8GJ8F",
   },
   {
     id: "sling-canguru",
@@ -202,24 +202,23 @@ export const produtos = [
     descricao:
       "Colo portátil para manter os bebês perto e as mãos minimamente livres.",
     preco: 200,
-    linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
+    linkPagamento: "https://mpago.la/1szhSHa",
   },
   {
     id: "chiqueirinho-grande",
     imagem: imagensProdutos.chiqueirinho,
     titulo: "Chiqueirinho Grande",
-    descricao:
-      "Ou vocês acham que a gente vai prender o Chamego?",
-    preco: 600,
-    linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
+    descricao: "Ou vocês acham que a gente vai prender o Chamego?",
+    preco: 460,
+    linkPagamento: "https://mpago.li/2ayyshd",
   },
   {
     id: "cadeira-amamentacao",
     imagem: imagensProdutos.cadeira_amamentacao,
     titulo: "Cadeira de Amamentação",
     descricao: "O trono oficial das madrugadas. Conforto para longas jornadas.",
-    preco: 1200,
-    linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
+    preco: 1250,
+    linkPagamento: "https://mpago.li/2g5JrEG",
   },
   {
     id: "baba-eletronica-dupla",
@@ -228,31 +227,31 @@ export const produtos = [
     descricao:
       "Monitoramento em dobro para deixar o coração um pouco mais tranquilo.",
     preco: 900,
-    linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
+    linkPagamento: "https://mpago.li/1Yfh8Gv",
   },
   {
     id: "kit-higiene",
     imagem: imagensProdutos.kit_higiene_bebes,
-    titulo: "Kit Higiene do Bebê",
+    titulo: "Kit Higiene dos Bebês",
     descricao: "Pequenos itens que fazem grande diferença no dia a dia.",
     preco: 180,
-    linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
+    linkPagamento: "https://mpago.li/1eq7mBq",
   },
   {
     id: "esterilizador-mamadeiras",
     imagem: imagensProdutos.esterilizador_mamadeiras,
     titulo: "Esterilizador de Mamadeiras",
     descricao: "Praticidade e segurança na rotina de alimentação.",
-    preco: 199.90,
-    linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
+    preco: 199.9,
+    linkPagamento: "https://mpago.li/2EXjNEk",
   },
   {
     id: "kit-mamadeiras",
     imagem: imagensProdutos.kit_mamadeiras,
     titulo: "Kit Mamadeiras (6 unidades)",
     descricao: "Porque sempre parece que tem menos do que o necessário.",
-    preco: 210,
-    linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
+    preco: 220,
+    linkPagamento: "https://mpago.li/2orjvP9",
   },
   {
     id: "mantas-cueiros",
@@ -260,23 +259,23 @@ export const produtos = [
     titulo: "Kit Mantas e Cueiros",
     descricao: "Versáteis para cobrir, proteger, enrolar e salvar o dia.",
     preco: 160,
-    linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
+    linkPagamento: "https://mpago.li/1w9T3qZ",
   },
   {
     id: "kit-meias-luvinhas",
     imagem: imagensProdutos.kit_meias_luvinhas,
     titulo: "Kit Meias e Luvinhas",
     descricao: "Pequenos detalhes que aquecem e evitam arranhões dramáticos.",
-    preco: 120,
-    linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
+    preco: 123,
+    linkPagamento: "https://mpago.li/1UTGAtU",
   },
   {
     id: "tapete-atividades",
     imagem: imagensProdutos.tapete_atividades,
     titulo: "Tapete de Atividades",
     descricao: "A academia oficial dos primeiros movimentos dos bebês.",
-    preco: 350,
-    linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
+    preco: 310,
+    linkPagamento: "https://mpago.li/1h4QUZ5",
   },
   {
     id: "kit-primeiros-cuidados",
@@ -284,7 +283,7 @@ export const produtos = [
     titulo: "Kit Primeiros Cuidados",
     descricao: "Preparação é tudo para os primeiros resfriados e imprevistos.",
     preco: 250,
-    linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
+    linkPagamento: "https://mpago.li/1ByNSbc",
   },
   {
     id: "vale-delivery",
@@ -292,15 +291,16 @@ export const produtos = [
     titulo: "Cota Noites de Delivery",
     descricao:
       "Porque cozinhar com gêmeos recém-nascidos é praticamente ficção científica.",
-    preco: 200,
-    linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
+    preco: 170,
+    linkPagamento: "https://mpago.li/1oi4VFq",
   },
   {
     id: "cota-socorro-sao-gemeos",
     imagem: imagensProdutos.socorro_gemeos,
     titulo: "💸 'Socorro, São Gêmeos'",
-    descricao: "Escolha qualquer valor e participe do financiamento da sobrevivência em dobro.",
+    descricao:
+      "Escolha qualquer valor e participe do financiamento da sobrevivência em dobro.",
     preco: 0,
-    linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
+    linkPagamento: "link.mercadopago.com.br/chachicoebe",
   },
 ];
