@@ -1,5 +1,4 @@
-import bannerImg from "@/assets/banner-bee-chico.png";
-
+import bannerImg from "@/assets/banner-cha-bee-chico.png";
 
 const Banner = () => {
   return (
