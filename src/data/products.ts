@@ -6,7 +6,7 @@ export const produtos = [
     imagem: imagensProdutos.paninho_boca,
     titulo: "Kit Paninhos de Boca",
     descricao: "Pequenos, indispensáveis e misteriosamente sempre desaparecem.",
-    preco: 60,
+    preco: 65.50,
     linkPagamento: "https://mpago.la/2SWs6iB",
   },
   {
@@ -22,7 +22,7 @@ export const produtos = [
     imagem: imagensProdutos.termometro,
     titulo: "Termômetro Digital",
     descricao: "Item que ninguém lembra até precisar às 2h17 da manhã.",
-    preco: 65,
+    preco: 30,
     linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
   },
   {
@@ -30,7 +30,7 @@ export const produtos = [
     imagem: imagensProdutos.kit_pratinhos,
     titulo: "Kit Pratinhos e Colheres",
     descricao: "Preparando o terreno para a fase gourmet papinha edition.",
-    preco: 85,
+    preco: 149.90,
     linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
   },
   {
@@ -45,10 +45,10 @@ export const produtos = [
   {
     id: "almofada-amamentacao",
     imagem: imagensProdutos.almofada_amamentacao,
-    titulo: "Almofada de Amamentação",
+    titulo: "Almofadas de Amamentação",
     descricao:
       "Conforto essencial para amamentar dois bebês ao mesmo tempo e salvar a coluna nas madrugadas.",
-    preco: 220,
+    preco: 260,
     linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
   },
   {
@@ -168,7 +168,7 @@ export const produtos = [
     titulo: "Bebê Conforto / Cadeira para Carro",
     descricao:
       "Segurança em primeiro lugar para os primeiros passeios da dupla.",
-    preco: 900,
+    preco: 450,
     linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
   },
   {
@@ -176,7 +176,7 @@ export const produtos = [
     imagem: imagensProdutos.carrinho_gemeos,
     titulo: "Carrinho de Bebê de Gêmeos",
     descricao: "A nave espacial oficial da família. Mobilidade nível avançado.",
-    preco: 3200,
+    preco: 2000,
     linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
   },
   {
@@ -209,7 +209,7 @@ export const produtos = [
     imagem: imagensProdutos.chiqueirinho,
     titulo: "Chiqueirinho Grande",
     descricao:
-      "Espaço seguro para brincar enquanto os adultos respiram por alguns minutos.",
+      "Ou vocês acham que a gente vai prender o Chamego?",
     preco: 600,
     linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
   },
@@ -243,7 +243,7 @@ export const produtos = [
     imagem: imagensProdutos.esterilizador_mamadeiras,
     titulo: "Esterilizador de Mamadeiras",
     descricao: "Praticidade e segurança na rotina de alimentação.",
-    preco: 400,
+    preco: 199.90,
     linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
   },
   {
@@ -251,7 +251,7 @@ export const produtos = [
     imagem: imagensProdutos.kit_mamadeiras,
     titulo: "Kit Mamadeiras (6 unidades)",
     descricao: "Porque sempre parece que tem menos do que o necessário.",
-    preco: 300,
+    preco: 210,
     linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
   },
   {
@@ -259,7 +259,7 @@ export const produtos = [
     imagem: imagensProdutos.mantas_cueiros,
     titulo: "Kit Mantas e Cueiros",
     descricao: "Versáteis para cobrir, proteger, enrolar e salvar o dia.",
-    preco: 200,
+    preco: 160,
     linkPagamento: "https://mpago.la/SEU_LINK_AQUI",
   },
   {
